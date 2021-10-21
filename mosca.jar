@@ -1,0 +1,11 @@
+class Mosca;
+public static void Main (String; args){
+int id = 0;
+int moscas = 20;
+String nombre = "mosca";
+explode();
+}
+
+public static void explode(boolean explosion = true){
+console.log("las moscas han explotado");
+}
